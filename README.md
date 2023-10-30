@@ -7,6 +7,6 @@
 藉由內政部的[不動產資料供應系統](https://plvr.land.moi.gov.tw/Login_input?authfailed=true#)來下載所需資料:
 ![不動產資料供應系統](不動產資料供應系統.png)
 ## 說明
-爬蟲說明請閱 **實價登錄應用--爬蟲.ipynb**。租屋數據分析請閱 **實際登錄應用--租屋.ipynb**。
+爬蟲說明請閱 **實價登錄應用--爬蟲.ipynb**。租屋數據分析請閱 **實價登錄應用--租屋.ipynb**。
 ## 參考來源
 [Finlab](https://www.finlab.tw/)
